@@ -11,8 +11,8 @@
 <radialGradient id="g2" cx="100%" cy="20%" r="60%"><stop offset="0" stop-color="#eb6834" stop-opacity=".35"/><stop offset="1" stop-color="#0b1220" stop-opacity="0"/></radialGradient></defs>
 <rect width="1200" height="420" rx="18" fill="#0b1220"/><rect width="1200" height="420" rx="18" fill="url(#g1)"/><rect width="1200" height="420" rx="18" fill="url(#g2)"/>
 <text x="70" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2.5" fill="#fbbf24" class="f">IIM AHMEDABAD  ·  SERVICE MANAGEMENT  ·  BPGP 2025-27  ·  GROUP 5</text>
-<g class="f" style="animation-delay:.2s"><text x="70" y="150" font-family="Georgia, Times New Roman, serif" font-size="72" font-weight="700" fill="#93c5fd">Disposed</text>
-<text x="375" y="150" font-family="Georgia, Times New Roman, serif" font-size="72" font-weight="700" fill="#fff">is not resolved</text></g>
+<g class="f" style="animation-delay:.2s"><text x="70" y="150" font-family="Georgia, Times New Roman, serif" font-size="72" font-weight="700" fill="#93c5fd" textLength="278" lengthAdjust="spacingAndGlyphs">Disposed</text>
+<text x="372" y="150" font-family="Georgia, Times New Roman, serif" font-size="72" font-weight="700" fill="#fff" textLength="470" lengthAdjust="spacingAndGlyphs">is not resolved</text></g>
 <rect x="66" y="124" width="282" height="8" rx="4" fill="#eb6834" class="s"/>
 <text x="70" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#cbd5e1" class="f" style="animation-delay:.4s">Can CPGRAMS meet its 21 day grievance standard? Government records and citizen experience compared</text>
 <g class="f" style="animation-delay:1.4s">
