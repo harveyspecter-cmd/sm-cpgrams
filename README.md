@@ -8,13 +8,13 @@
 <a href="data/">Raw data</a>
 </p>
 
-Indian Institute of Management Ahmedabad.
+## Indian Institute of Management Ahmedabad.
 
-Service Management, BPGP 2025-27 
+## Service Management, BPGP 2025-27 
 
-Term IV, Group 5 is Fairy Pandit, Gopika Tejaswini Chintakuntla, Rahul Shyamal, Shivam Aggarwal and Sushant Gaurav.
+## Term IV, Group 5 is Fairy Pandit, Gopika Tejaswini Chintakuntla, Rahul Shyamal, Shivam Aggarwal and Sushant Gaurav.
 
-Faculty are Prof. Rajesh Chandwani and Prof. Ankur Sinha.
+## Faculty are Prof. Rajesh Chandwani and Prof. Ankur Sinha.
 
 ## The story in seven scenes
 
