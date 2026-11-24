@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Disposed is not resolved. Government record says yes, citizens say no">
+<style>
+.f{opacity:0;animation:in .8s forwards}
+@keyframes in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.s{transform-origin:70px 0;transform:scaleX(0);animation:st 1s 1s forwards cubic-bezier(.6,0,.2,1)}
+@keyframes st{to{transform:scaleX(1)}}
+.p{animation:pulse 2.4s 2s infinite}
+@keyframes pulse{50%{opacity:.45}}
+</style>
+<defs><radialGradient id="g1" cx="10%" cy="0%" r="70%"><stop offset="0" stop-color="#2a78d6" stop-opacity=".45"/><stop offset="1" stop-color="#0b1220" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="100%" cy="20%" r="60%"><stop offset="0" stop-color="#eb6834" stop-opacity=".35"/><stop offset="1" stop-color="#0b1220" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="420" rx="18" fill="#0b1220"/><rect width="1200" height="420" rx="18" fill="url(#g1)"/><rect width="1200" height="420" rx="18" fill="url(#g2)"/>
+<text x="70" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2.5" fill="#fbbf24" class="f">IIM AHMEDABAD  ·  SERVICE MANAGEMENT  ·  BPGP 2025-27  ·  GROUP 5</text>
+<g class="f" style="animation-delay:.2s"><text x="70" y="150" font-family="Georgia, Times New Roman, serif" font-size="72" font-weight="700" fill="#93c5fd">Disposed</text>
+<text x="375" y="150" font-family="Georgia, Times New Roman, serif" font-size="72" font-weight="700" fill="#fff">is not resolved</text></g>
+<rect x="66" y="124" width="282" height="8" rx="4" fill="#eb6834" class="s"/>
+<text x="70" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#cbd5e1" class="f" style="animation-delay:.4s">Can CPGRAMS meet its 21 day grievance standard? Government records and citizen experience compared</text>
+<g class="f" style="animation-delay:1.4s">
+<rect x="70" y="232" width="520" height="150" rx="14" fill="#ffffff" fill-opacity=".05" stroke="#93c5fd" stroke-opacity=".5"/>
+<text x="94" y="264" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#93c5fd">GOVERNMENT RECORD SAYS YES</text>
+<text x="94" y="322" font-family="Georgia, Times New Roman, serif" font-size="46" font-weight="700" fill="#93c5fd">12.28 d</text>
+<text x="94" y="352" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#94a3b8">mean time in system, 2026</text>
+<text x="330" y="322" font-family="Georgia, Times New Roman, serif" font-size="46" font-weight="700" fill="#93c5fd">100.52%</text>
+<text x="330" y="352" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#94a3b8">disposals over receipts, 34 months</text></g>
+<g class="f" style="animation-delay:1.8s">
+<rect x="610" y="232" width="520" height="150" rx="14" fill="#ffffff" fill-opacity=".05" stroke="#fdba74" stroke-opacity=".5"/>
+<text x="634" y="264" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#fdba74">CITIZENS SAY NO</text>
+<text x="634" y="322" font-family="Georgia, Times New Roman, serif" font-size="46" font-weight="700" fill="#fdba74" class="p">8.3%</text>
+<text x="634" y="352" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#94a3b8">of 24 traced cases fixed</text>
+<text x="880" y="322" font-family="Georgia, Times New Roman, serif" font-size="46" font-weight="700" fill="#fdba74">83.3%</text>
+<text x="880" y="352" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#94a3b8">closed on the portal without a fix</text></g>
+</svg>

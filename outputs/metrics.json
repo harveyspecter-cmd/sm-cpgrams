@@ -1,0 +1,411 @@
+{
+  "central": {
+    "months": 34,
+    "receipts_total": 5734872,
+    "disposals_total": 5764565,
+    "clearance_total": 100.52,
+    "W_by_year": {
+      "2024": 14.99,
+      "2025": 14.44,
+      "2026": 12.28
+    },
+    "CV_by_year": {
+      "2024": 0.615,
+      "2025": 0.141,
+      "2026": 0.143
+    },
+    "CV_all": 0.407,
+    "CV_all_ex_mar2024": 0.267,
+    "mean_receipts_by_year": {
+      "2024": 171562.0,
+      "2025": 138938.0,
+      "2026": 200887.0
+    },
+    "residual_positive": 33,
+    "residual_transitions": 33,
+    "residual_sum": 36843,
+    "residual_by_year": {
+      "2024": 8720,
+      "2025": 14287,
+      "2026": 13836
+    },
+    "W_oct2026": 10.3,
+    "pending_aug2026": 93864,
+    "pending_oct2026": 78076,
+    "peak_receipts_2026": 251147,
+    "mean_receipts_2025": 138938.0,
+    "mean_receipts_2026": 200887.0,
+    "appeals_2026": 326731,
+    "appeal_per_100_disposals_2026": 16.2,
+    "receipts_growth_2025_2026_pct": 44.6
+  },
+  "its": {
+    "n": 34,
+    "r2": 0.54,
+    "coef": {
+      "Intercept": 21.294,
+      "t": -1.363,
+      "post21": -4.484,
+      "t_post21": 1.172,
+      "postRev": 1.01,
+      "mar24": -11.653
+    },
+    "p": {
+      "Intercept": 0.0,
+      "t": 0.0019,
+      "post21": 0.0208,
+      "t_post21": 0.008,
+      "postRev": 0.0791,
+      "mar24": 0.0
+    },
+    "W_pre21_mean": 15.07,
+    "W_post21_mean": 13.67,
+    "welch_t": 0.6,
+    "welch_p": 0.5654
+  },
+  "tail": {
+    "m1_routine_days": 7.0,
+    "W_2026": 12.28,
+    "stock_gt21_target": 0.32,
+    "q_complex_share": 0.184,
+    "m2_complex_days": 35.7,
+    "completed_gt21_share": 14.3,
+    "single_exponential_stock_gt21": 18.1,
+    "Cs2": 2.64,
+    "p95_days": 47.2
+  },
+  "dept35": {
+    "receipts": 1681130,
+    "disposals": 1620973,
+    "pending": 60157,
+    "aged_ge60": 5018,
+    "aged_share": 8.34,
+    "top10_aged": 4548,
+    "top10_share": 90.63,
+    "top3_aged": 2600,
+    "max_cohort_residual": 0,
+    "spearman": {
+      "Receipts_2026": {
+        "rho": -0.0905,
+        "p": 0.6051
+      },
+      "Total_Pending": {
+        "rho": 0.2107,
+        "p": 0.2244
+      },
+      "Clearance": {
+        "rho": -0.4688,
+        "p": 0.0045
+      }
+    },
+    "pareto_80_count": 7
+  },
+  "panel": {
+    "N_atr": 115,
+    "M_atr": 32,
+    "N_time": 100,
+    "M_time": 32,
+    "R2_pooled": 0.782,
+    "R2_twfe": 0.9727,
+    "adjR2_pooled": 0.7611,
+    "adjR2_twfe": 0.9573,
+    "R2_gain_pp": 19.06,
+    "R2_time_pooled": 0.7128,
+    "R2_time_twfe": 0.8602,
+    "atr_twfe": {
+      "log_load_active": {
+        "b": 0.1545,
+        "p": 0.0002
+      },
+      "bf_ratio": {
+        "b": -0.1443,
+        "p": 0.1366
+      },
+      "bf_ratio_sq": {
+        "b": -0.0664,
+        "p": 0.2591
+      },
+      "active_ratio": {
+        "b": 0.179,
+        "p": 0.0474
+      },
+      "appeal_ratio": {
+        "b": 0.6527,
+        "p": 0.0001
+      }
+    },
+    "atr_pooled": {
+      "log_load_active": {
+        "b": -0.0125,
+        "p": 0.334
+      },
+      "bf_ratio": {
+        "b": -0.5399,
+        "p": 0.0
+      },
+      "bf_ratio_sq": {
+        "b": 0.1694,
+        "p": 0.0493
+      },
+      "active_ratio": {
+        "b": 0.135,
+        "p": 0.0823
+      },
+      "appeal_ratio": {
+        "b": 1.5709,
+        "p": 0.0
+      }
+    },
+    "time_twfe": {
+      "log_load_active": {
+        "b": -6.367,
+        "p": 0.0538
+      },
+      "bf_ratio": {
+        "b": 25.013,
+        "p": 0.0005
+      },
+      "bf_ratio_sq": {
+        "b": -9.62,
+        "p": 0.0069
+      },
+      "active_ratio": {
+        "b": -2.192,
+        "p": 0.8319
+      }
+    },
+    "bf_turning_point": 1.3,
+    "bf_ratio_median": 0.41,
+    "bf_ratio_p90": 0.72,
+    "load_median": 19.4,
+    "load_p90": 121.1
+  },
+  "atr": {
+    "panel_res21_pct": 56.7,
+    "panel_atr21_pct": 42.4,
+    "panel_gap_pp": 14.3,
+    "aug_max_gap_ministry": "Land Resources",
+    "aug_max_gap_pp": 90.2,
+    "aug_min_active_ministry": "Food & Public Dist.",
+    "aug_min_active_pct": 15.8,
+    "panel_active_ratio_median": 58.8,
+    "rows_gap_gt30": 26,
+    "rows_total": 115
+  },
+  "feedback": {
+    "c25_total": 346095,
+    "c25_res_pct": 59.83,
+    "c25_cond_sat": 67.06,
+    "c25_uncond_sat": 40.12,
+    "c26_total": 699593,
+    "c26_resolved": 286429,
+    "c26_satisfied": 228879,
+    "c26_res_pct": 40.94,
+    "c26_cond_sat": 79.91,
+    "c26_uncond_sat": 32.72,
+    "c26_inflation_pp": 47.2,
+    "c26_unresolved_pct": 59.1,
+    "disposals_2026": 2022066,
+    "response_rate_2026": 34.6,
+    "bounds_resolved_lower": 14.2,
+    "bounds_resolved_upper": 79.6,
+    "states_res_range": [
+      33.3,
+      52.0
+    ],
+    "states_uncond_range": [
+      22.7,
+      27.8
+    ]
+  },
+  "cpengrams": {
+    "receipts": 68861,
+    "pending": 5916,
+    "pending_share": 8.59,
+    "within_timeline": 42311,
+    "within_timeline_pct": 61.44,
+    "avg_days": 27,
+    "sat_index_pct": 23.72,
+    "feedbacks": 11126,
+    "online_share": 90.9,
+    "pending_gt3m": 250
+  },
+  "parl": {
+    "receipts_10yr": 20264118,
+    "disposed_10yr": 20419829,
+    "peak_year": "2019",
+    "peak_pending": 1071603,
+    "pending_2025": 276792,
+    "drop_from_peak_pct": 74.17,
+    "max_abs_resid_national": 0,
+    "max_abs_resid_91": 0,
+    "max_abs_resid_37": 0,
+    "central_receipts_10yr": 12074075,
+    "state_receipts_10yr": 6319466,
+    "top7_receipt_share": 47.3,
+    "top7": [
+      "Department of Financial Services (Banking Division)",
+      "Ministry of Labour and Employment",
+      "Department of Rural Development",
+      "Department of Telecommunications",
+      "Ministry of Railways (Railway Board)",
+      "Department of Posts",
+      "Central Board of Direct Taxes (Income Tax)"
+    ]
+  },
+  "queue": {
+    "reduction_range": [
+      52.6,
+      89.7
+    ],
+    "rho90_silo": 9.0,
+    "rho90_pool": 4.26,
+    "skew_silo": 15.11,
+    "skew_pool": 1.78,
+    "ca2": 0.0204,
+    "cs2": 2.64,
+    "variability_factor": 1.33,
+    "rho_threshold_by_desks": {
+      "1": 0.601,
+      "2": 0.775,
+      "4": 0.877,
+      "8": 0.934
+    },
+    "pooled4_capacity_saving_pct": 31.5,
+    "mm1_wq_rho": {
+      "0.7": 2.33,
+      "0.85": 5.67,
+      "0.95": 19.0
+    }
+  },
+  "primary": {
+    "units": 25,
+    "direct": 24,
+    "individual": 12,
+    "veteran": 12,
+    "kpi": {
+      "KPI-01": 8.3,
+      "KPI-02": 16.7,
+      "KPI-03": 45.5,
+      "KPI-04": 18.2,
+      "KPI-05": 21.7,
+      "KPI-06": 8.7,
+      "KPI-07": 60.0,
+      "KPI-08": 78.3,
+      "KPI-09": 83.3,
+      "KPI-10": 17.0,
+      "KPI-11": 42.6,
+      "KPI-12": 123.0,
+      "KPI-13": 1.0,
+      "KPI-14": 50.0,
+      "KPI-15": 0.0,
+      "KPI-16": 100.0,
+      "KPI-17": 1.0,
+      "KPI-18": 66.7
+    },
+    "kpi_frac": {
+      "KPI-01": "2 of 24",
+      "KPI-02": "2 of 12",
+      "KPI-03": "5 of 11",
+      "KPI-04": "2 of 11",
+      "KPI-05": "5 of 23",
+      "KPI-06": "2 of 23",
+      "KPI-07": "3 of 5",
+      "KPI-08": "18 of 23",
+      "KPI-09": "20 of 24",
+      "KPI-10": "119 of 7",
+      "KPI-11": "469 of 11",
+      "KPI-12": "1353 of 11",
+      "KPI-13": "9 of 9",
+      "KPI-14": "2 of 4",
+      "KPI-15": "0 of 18",
+      "KPI-16": "24 of 24",
+      "KPI-17": "3 of 3",
+      "KPI-18": "2 of 3"
+    },
+    "closed_days": [
+      1,
+      1,
+      5,
+      13,
+      24,
+      33,
+      42
+    ],
+    "closed_median": 13.0,
+    "dated_dir_median": 24.0,
+    "e2e_median": 24.0,
+    "e2e_max": 585,
+    "dated_ind_mean": 44.1,
+    "dated_ind_median": 18.5,
+    "hops_direct_mean": 1.55,
+    "appeal_rate": 8.7,
+    "appeals": 2,
+    "appeals_den": 23,
+    "nonresolution_direct": 91.7,
+    "pareto_direct": {
+      "Closed without fixing the problem": 20,
+      "Breach of 21 days": 18,
+      "Complaint relabelled as suggestion": 15,
+      "Copy and paste template reply": 4,
+      "Closed within one day": 2,
+      "Missing proof or attachment": 2,
+      "Centre to State referral loop": 1,
+      "Routed to wrong State": 1,
+      "Bounced across many desks": 1,
+      "Bribe demand left unpunished": 1
+    },
+    "pareto_top3_share": 81.5
+  },
+  "expectation": {
+    "max_acceptable_days": [
+      7.0,
+      7.0,
+      26.0
+    ],
+    "mean_acceptable": 13.3,
+    "median_acceptable": 7.0,
+    "standard": 21,
+    "standards_gap_days": 14.0,
+    "delivery_gap_days_mean_dated": 21.6,
+    "first_substantive_reply_mean": 21.0,
+    "ratings_mean": {
+      "Intuitiveness_1_5": 2.25,
+      "Final_ATR_Clarity_1_5": 3.0,
+      "Outcome_Fairness_1_5": 1.0,
+      "Timeliness_Satisfaction_1_5": 2.0
+    },
+    "interim_reply_rate": 0.0
+  },
+  "fisher": {
+    "table": [
+      [
+        2,
+        2
+      ],
+      [
+        0,
+        18
+      ]
+    ],
+    "p_one_sided": 0.026
+  },
+  "contrast": {
+    "government": {
+      "Mean time (Little's Law, 2026)": "12.28 days",
+      "Clearance, Jan 2024 to Oct 2026": "100.52%",
+      "Open stock within 21 days, Oct 2026": "about 68%",
+      "Conditional satisfaction 2026": "79.91%"
+    },
+    "citizen": {
+      "Substantive resolution": "8.3%",
+      "Breach of 21 days": "78.3%",
+      "Hollow closures": "83.3%",
+      "Outcome fairness": "1.0 of 5"
+    },
+    "bridge_confirmed_resolved_2026": 40.94,
+    "bridge_uncond_sat_2026": 32.72,
+    "bridge_cpengrams_sat": 23.72,
+    "bridge_atr_gap_pp": 14.3
+  }
+}

@@ -1,0 +1,12 @@
+Indicator_ID,Dimension,Dimension_Weight,Indicator_Name,Orientation,Within_Dim_Weight,Formula_And_Notes
+1.0,Efficiency,0.45,% Grievances Resolved with ATRs within 21 days,Positive,0.45,(Resolved_with_ATR_<=21d / (BF + Receipts)) * 100
+2.0,Efficiency,0.45,% Appeals Redressed within 30 days,Positive,0.15,(Appeals_Redressed_<=30d / (Appeals_BF + Appeals_Filed)) * 100
+3.0,Efficiency,0.45,% Resolution of Grievances under Corruption Category,Positive,0.15,(Corruption_Resolved / (Corruption_BF + Corruption_Rec)) * 100
+4.0,Efficiency,0.45,Average Resolution Time (days; 21-day mandate),Negative,0.1,1 - (Avg_Time / 21); floor 0 in Feb-Mar 2026; negative credit from Apr 2026
+5.0,Efficiency,0.45,% GROs with Pendency >100 Grievances (>21 days),Negative,0.15,100 - ((GROs_>100_pending_>21d / Mapped_GROs) * 100)
+6.0,Feedback,0.3,% of Appeals Filed,Negative,0.5,100 - ((Appeals_Filed / Resolved_<=30d_excl_duplicates) * 100)
+7.0,Feedback,0.3,% of Resolution with Satisfied Remarks,Positive,0.5,(Resolved_and_Satisfied_Feedback / Total_Feedback) * 100; online-only Jul 2026
+8.0,Domain,0.15,% Resolution of Urgent Labelled Complaints,Positive,0.6,(Urgent_Resolved / (Urgent_BF + Urgent_Rec)) * 100
+9.0,Domain,0.15,Adequacy of Categorisation (% in Others),Negative,0.4,100 - ((Grievances_in_Others / Total_Receipts) * 100)
+10.0,Organisational Commitment,0.1,Ratio of Grievances Received vis-a-vis GROs,Negative,0.3,Relatively normalized ratio of Receipts to Mapped GROs (retained post-Feb 2026)
+11.0,Organisational Commitment,0.1,% of Active GROs (>5 Logins),Positive,0.7,(GROs_with_>5_Logins / Mapped_GROs_excl_inactivated) * 100

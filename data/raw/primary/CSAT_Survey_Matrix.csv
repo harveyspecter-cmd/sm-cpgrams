@@ -1,0 +1,4 @@
+Respondent_ID,Dept,Intuitiveness_1_5,Reassignments,Ack_Days,First_Substantive_Reply_Days,Resolution_Days,Informative_Interim_Reply,Officer_Visibility,Used_Alternative_Channel,Resolved_Flag,Final_ATR_Clarity_1_5,Outcome_Fairness_1_5,Timeliness_Satisfaction_1_5,Max_Acceptable_Days_Ordinary,Digital_Confidence_Shift
+Case-PS-01,Department of Posts,1.0,0,3,4,5.0,0,0.0,1,1,5.0,1,4,7,Increased
+Case-UD-01,MoHUA / UP IGRS,3.5,1,0,24,,0,0.5,1,0,1.0,1,1,7,Decreased
+Case-PP-02..CS-01,Veteran Portfolio (12 Cases),,2,0,35,,0,0.0,1,0,,1,1,26,Decreased

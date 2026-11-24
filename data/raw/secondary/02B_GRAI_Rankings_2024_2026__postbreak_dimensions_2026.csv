@@ -1,0 +1,61 @@
+Period,GRAI_Rank,Ministry_Department,Efficiency_0.45,Feedback_0.30,Domain_0.15,Org_Commit_0.10,GRAI_Score
+2026-02,1,Department of Telecommunications,0.4,0.168,0.15,0.086,0.804
+2026-02,2,Central Board of Indirect Taxes and Customs,0.318,0.227,0.15,0.095,0.79
+2026-02,3,Department of Posts,0.354,0.202,0.129,0.098,0.783
+2026-02,4,DFS (Insurance Division),0.379,0.156,0.139,0.091,0.766
+2026-02,5,DFS (Banking Division),0.342,0.187,0.13,0.08,0.738
+2026-02,6,Department of Consumer Affairs,0.376,0.15,0.142,0.062,0.73
+2026-02,7,Dept of Social Justice & Empowerment,0.309,0.176,0.125,0.079,0.69
+2026-02,8,Department of Revenue,0.213,0.224,0.131,0.081,0.648
+2026-02,9,Department of Land Resources,0.239,0.224,0.15,0.029,0.642
+2026-02,10,Department of Defence Finance,0.236,0.234,0.127,0.044,0.641
+2026-02,11,Ministry of Electronics & IT (MeitY),0.25,0.192,0.137,0.044,0.622
+2026-02,12,Ministry of Power,0.151,0.222,0.15,0.093,0.616
+2026-02,13,Ministry of Road Transport & Highways,0.239,0.181,0.123,0.072,0.615
+2026-02,14,Ministry of Women & Child Development,0.265,0.16,0.118,0.071,0.614
+2026-02,15,Ministry of Labour and Employment,0.257,0.197,0.093,0.063,0.61
+2026-02,16,Department of Defence,0.293,0.098,0.132,0.078,0.601
+2026-02,17,Ministry of Panchayati Raj,0.247,0.173,0.134,0.043,0.596
+2026-02,18,Ministry of Corporate Affairs,0.271,0.14,0.111,0.073,0.596
+2026-02,19,CBDT (Income Tax),0.148,0.222,0.127,0.097,0.595
+2026-02,20,Ministry of Petroleum & Natural Gas,0.196,0.226,0.104,0.069,0.595
+2026-02,21,Ministry of Drinking Water & Sanitation,0.249,0.178,0.123,0.044,0.593
+2026-02,22,Department of Military Affairs,0.244,0.178,0.105,0.065,0.591
+2026-02,23,"Ministry of Environment, Forest & CC",0.223,0.18,0.116,0.069,0.588
+2026-02,24,UIDAI,0.231,0.184,0.114,0.057,0.586
+2026-07,1,Department of Posts,0.393,0.169,0.148,0.098,0.808
+2026-07,2,Department of Telecommunications,0.396,0.135,0.15,0.094,0.775
+2026-07,3,DFS (Insurance Division),0.397,0.14,0.142,0.094,0.774
+2026-07,4,Department of Consumer Affairs,0.395,0.142,0.142,0.078,0.757
+2026-07,5,Central Board of Indirect Taxes & Customs,0.331,0.179,0.133,0.099,0.743
+2026-07,6,Dept of Empowerment of PwD,0.315,0.155,0.132,0.089,0.69
+2026-07,7,DFS (Banking Division),0.308,0.167,0.124,0.08,0.677
+2026-07,8,Ministry of Women & Child Development,0.347,0.148,0.092,0.083,0.67
+2026-07,9,Ministry of Electronics & IT (MeitY),0.339,0.162,0.115,0.046,0.661
+2026-07,10,Ministry of Civil Aviation,0.336,0.139,0.125,0.058,0.658
+2026-07,11,Ministry of Power,0.231,0.175,0.15,0.095,0.651
+2026-07,12,Ministry of Home Affairs,0.308,0.151,0.132,0.06,0.65
+2026-07,13,Dept of Social Justice & Empowerment,0.272,0.166,0.129,0.079,0.646
+2026-07,14,Department of Military Affairs,0.278,0.161,0.12,0.083,0.642
+2026-07,15,Ministry of Labour and Employment,0.274,0.152,0.139,0.065,0.631
+2026-07,16,Department of Revenue,0.251,0.171,0.136,0.063,0.622
+2026-07,17,Department of Land Resources,0.258,0.15,0.15,0.062,0.62
+2026-07,18,Ministry of Coal,0.366,0.026,0.15,0.077,0.619
+2026-07,19,Dept of School Education & Literacy,0.266,0.147,0.125,0.072,0.611
+2026-07,20,Ministry of Corporate Affairs,0.273,0.128,0.123,0.086,0.61
+2026-07,21,CBDT (Income Tax),0.221,0.171,0.12,0.096,0.608
+2026-07,22,UIDAI,0.248,0.185,0.116,0.058,0.607
+2026-07,23,Dept of Food & Public Distribution,0.224,0.206,0.13,0.042,0.603
+2026-10,31,(Ministry name omitted in PDF extract),0.226,0.163,0.109,0.07,0.568
+2026-10,32,Ministry of Railways (Railway Board),0.263,0.127,0.103,0.065,0.558
+2026-10,33,Staff Selection Commission,0.215,0.159,0.095,0.078,0.547
+2026-10,34,Department of Urban Development,0.214,0.163,0.134,0.036,0.547
+2026-10,35,Department of Personnel & Training,0.191,0.167,0.12,0.065,0.542
+2026-10,36,Department of Military Affairs,0.188,0.161,0.108,0.084,0.54
+2026-10,37,Department of Justice,0.193,0.143,0.126,0.072,0.535
+2026-10,38,Dept of Food & Public Distribution,0.214,0.173,0.101,0.042,0.529
+2026-10,39,Ministry of Petroleum & Natural Gas,0.148,0.217,0.094,0.071,0.529
+2026-10,40,Ministry of External Affairs,0.19,0.16,0.097,0.057,0.505
+2026-10,41,Ministry of MSME,0.179,0.152,0.12,0.046,0.497
+2026-10,42,Department of Rural Development,0.211,0.1,0.115,0.065,0.492
+2026-10,43,Ministry of Cooperation,0.205,0.083,0.1,0.046,0.434

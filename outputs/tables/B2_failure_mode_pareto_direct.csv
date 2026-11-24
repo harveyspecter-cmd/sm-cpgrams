@@ -1,0 +1,11 @@
+failure,code,count,cum_share_pct
+Closed without fixing the problem,Hollow_Closure,20,30.76923076923077
+Breach of 21 days,SLA_Breach,18,58.46153846153847
+Complaint relabelled as suggestion,Suggestion_Reclassified,15,81.53846153846153
+Copy and paste template reply,Copy_Paste_Template,4,87.6923076923077
+Closed within one day,Premature_1d_Closure,2,90.76923076923077
+Missing proof or attachment,Missing_Attachment,2,93.84615384615384
+Centre to State referral loop,Central_State_Loop,1,95.38461538461539
+Routed to wrong State,Interstate_Misrouting,1,96.92307692307692
+Bounced across many desks,Multi_Hop_PingPong,1,98.46153846153847
+Bribe demand left unpunished,Bribery_Unpunished,1,100.0

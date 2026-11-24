@@ -1,0 +1,6 @@
+Hypothesis,Evidence,Verdict
+H1. Delay rises non linearly with load and backlog,"TWFE on N = 100 ministry months. Backlog ratio +25.013 days (p = 0.0005), squared term -9.62 (p = 0.0069).",Supported for backlog. Load per active GRO is not a congestion driver once ministry effects are held.
+H2. Ministry differences persist after load,"Ministry effects lift R2 of ATR share from 0.782 to 0.9727 (+19.06 pp), N = 115.",Supported. Process and practice differ by ministry.
+H3. Pooling cuts delay at equal capacity,M/M/1 vs M/M/2 cuts wait 52.6 to 89.7 percent. With calibrated Cs2 = 2.64 the safe utilisation ceiling rises from 0.601 (1 desk) to 0.877 (4 desks).,Supported analytically with service time variability calibrated from DARPG ageing data.
+H4. Reforms raised 21 day performance,"Interrupted time series on Little's Law W. Level shift -4.484 days (p = 0.0208) after Aug 2024, slope change +1.172 (p = 0.008).","Partly supported. One time drop in mean time, no lasting change in the aged tail."
+H5. Citizen perceived timeliness lags reported timeliness,"Call centre 2026. 40.94 percent confirm resolution, true satisfaction 32.72 percent. Citizen cohort substantive resolution 8.3 percent.",Supported by both secondary and primary evidence.

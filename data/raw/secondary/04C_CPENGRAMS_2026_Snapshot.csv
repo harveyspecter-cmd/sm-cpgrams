@@ -1,0 +1,12 @@
+Metric_Group,Category_Or_Bucket,Exact_Count,Analytical_Note
+Receipts by Channel (w.e.f. 01/01/2026),Online,62587,Primary digital intake
+Receipts by Channel (w.e.f. 01/01/2026),Call Center,4307,Voice-assisted senior citizen access
+Receipts by Channel (w.e.f. 01/01/2026),Postal,1745,Physical correspondence intake
+Receipts by Channel (w.e.f. 01/01/2026),Email,222,Direct email intake
+Pending Ageing Buckets,Up to 3 Months,5666,Mixes <=21d and 22-90d cases
+Pending Ageing Buckets,3-6 Months,233,Multi-office pension verification delays
+Pending Ageing Buckets,6-12 Months,13,Long-tail backlog
+Pending Ageing Buckets,> 1 Year,4,Legacy unresolved tail
+Performance KPI (w.e.f. 01/01/2026),Resolved Within Timeline,42311,Proxy compliance rate of receipts
+Performance KPI (w.e.f. 01/01/2026),Feedback Satisfaction Index,11126,"23.72% satisfaction index across 11,126 responses"
+Performance KPI (w.e.f. 01/01/2026),Average Disposal Time (Days),27,+6 days above 21-day Central mandate

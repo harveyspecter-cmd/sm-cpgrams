@@ -1,0 +1,3 @@
+Break_ID,Effective_Date,Regime_Shift,Affected_Indicators,Econometric_Treatment
+B_GRAI,2026-02-01,DARPG removed post-formula normalization on 8 pct indicators; Avg Time negative credit active Apr 2026; Ind 10 stayed normalized,"Composite GRAI, Ind 4, Ind 9",Include post-Feb 2026 regime indicator / separate pre- vs post-break estimation
+B_Fbk,2026-07-01,Transition to multilingual Feedback Call Centre; Jul 2026 used online-only feedback (zero-online M/Ds scored on Appeals only),"Ind 7, Feedback Funnel",Include Jul-Aug 2026 transition indicator in feedback & satisfaction regressions

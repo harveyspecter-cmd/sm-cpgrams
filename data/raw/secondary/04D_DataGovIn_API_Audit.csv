@@ -1,0 +1,4 @@
+Audit_Dimension,Verified_Finding,Implication_For_Study
+Catalog Scope,Third-party civic OGD explorer lists 30 datasets under Administration -> Public Administration & Grievances; live https://www.data.gov.in/keywords/CPGRAMS returned inaccessible during automated check.,Individual live UUIDs and update timestamps could not be enumerated directly from data.gov.in.
+Granularity & Schema,"Published OGD resources (e.g., ap.data.gov.in/resource/year-wise-total-number-grievances-received) hold only annual national (2020-2024) and State/UT aggregate counts.","OGD APIs lack ministry-month GRAI tables, active GRO logins, 21-day ageing splits, and case-level timestamps."
+API Technical Constraints,api.data.gov.in enforces API key tier rate limits and lags DARPG monthly reports by 12-24 months.,DARPG Monthly Reports and Sansad Parliamentary Annexures remain the authoritative primary data spine.

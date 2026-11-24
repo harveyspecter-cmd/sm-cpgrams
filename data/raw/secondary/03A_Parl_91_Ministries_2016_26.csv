@@ -1,0 +1,92 @@
+S_No,Ministry_Department,Brought_Forward,Receipt,Disposed,Pending
+1.0,Central Board of Direct Taxes (Income Tax),8135,510278,512330,6083
+2.0,Central Board of Indirect Taxes and Customs,940,155166,155900,206
+3.0,Department for Promotion of Industry and Internal Trade,145,23307,23327,125
+4.0,Department of Administrative Reforms and Public Grievances - PG Division,22,23910,23872,60
+5.0,Department of Agriculture and Farmers Welfare,1149,469979,468008,3120
+6.0,Department of Agriculture Research and Education,580,18956,19445,91
+7.0,"Department of Animal Husbandry, Dairying",264,17644,17814,94
+8.0,Department of Atomic Energy,219,15695,15856,58
+9.0,Department of Bio Technology,177,3549,3717,9
+10.0,Department of Chemicals and Petrochemicals,38,5918,5947,9
+11.0,Department of Commerce,608,48519,48626,501
+12.0,Department of Consumer Affairs,995,143236,143954,277
+13.0,Department of Defence,5468,153515,158643,340
+14.0,Department of Defence Finance,399,177338,174654,3083
+15.0,Department of Defence Production,308,24785,24952,141
+16.0,Department of Defence Research and Development,39,10427,10325,141
+17.0,Department of Economic Affairs ACC Division,754,45244,45538,460
+18.0,Department of Empowerment of Persons with Disabilities,62,29337,29272,127
+19.0,Department of Ex Servicemen Welfare,1065,182106,182155,1016
+20.0,Department of Expenditure,315,42241,42343,213
+21.0,Department of Fertilizers,248,6729,6955,22
+22.0,Department of Financial Services (Banking Division),5106,1505438,1507252,3292
+23.0,Department of Financial Services (Insurance Division),675,225633,225973,335
+24.0,Department of Financial Services (Pension Reforms),0,23777,23722,55
+25.0,Department of Fisheries,0,2729,2702,27
+26.0,Department of Food and Public Distribution,181,67701,65495,2387
+27.0,Department of Health & Family Welfare,3163,317372,318462,2073
+28.0,Department of Health Research,110,16193,16255,48
+29.0,Department of Higher Education,6543,232352,237648,1247
+30.0,Department of Investment & Public Asset Management,3,7760,7717,46
+31.0,Department of Justice,226,112980,113118,88
+32.0,Department of Land Resources,63,22663,22649,77
+33.0,Department of Legal Affairs,661,37120,37624,157
+34.0,Department of Military Affairs,0,40414,39128,1286
+35.0,Department of Official Language,39,3262,3297,4
+36.0,Department of Personnel and Training,1230,269475,269693,1012
+37.0,Department of Pharmaceuticals,391,15450,15796,45
+38.0,Department of Posts,864,524549,523925,1488
+39.0,Department of Public Enterprises,3,8128,8091,40
+40.0,Department of Revenue,5213,179894,184762,345
+41.0,Department of Rural Development,1007,810606,810501,1112
+42.0,Department of School Education and Literacy,5574,193402,197589,1387
+43.0,Department of Science and Technology,1362,24890,26188,64
+44.0,Department of Scientific & Industrial Research,141,12388,12497,32
+45.0,Department of Social Justice and Empowerment,442,65521,65757,206
+46.0,Department of Space,110,5640,5719,31
+47.0,Department of Sports,1183,15038,16131,90
+48.0,Department of Telecommunications,4672,680130,684068,734
+49.0,Department of Youth Affairs,53,9032,9045,40
+50.0,Legislative Department,267,11028,11257,38
+51.0,Ministry of Coal,723,45182,45768,137
+52.0,Ministry of Ayush,370,31080,31343,107
+53.0,Ministry of Civil Aviation,1371,94967,95929,409
+54.0,Ministry of Cooperation,0,81955,81477,478
+55.0,Ministry of Corporate Affairs,1742,151377,152502,617
+56.0,Ministry of Culture,376,25913,26233,56
+57.0,Ministry of Development of North Eastern Region,81,2585,2666,0
+58.0,Ministry of Drinking Water and Sanitation,293,48885,48564,614
+59.0,Ministry of Earth Sciences,73,4875,4941,7
+60.0,Ministry of Electronics & Information Technology,268,90246,90197,317
+61.0,"Ministry of Environment, Forest and Climate Change",4240,61006,64889,357
+62.0,Ministry of External Affairs,514,171174,170524,1164
+63.0,Ministry of Food Processing Industries,68,7200,7240,28
+64.0,Ministry of Heavy Industries,437,14778,15192,23
+65.0,Ministry of Home Affairs,5006,425960,428041,2925
+66.0,Ministry of Housing and Urban Affairs,2228,242109,242349,1988
+67.0,Ministry of Information and Broadcasting,5687,65686,71208,165
+68.0,Ministry of Labour and Employment,1028,1088078,1074670,14436
+69.0,Ministry of Micro Small and Medium Enterprises,213,78194,76213,2194
+70.0,Ministry of Mines,230,14501,14659,72
+71.0,Ministry of Minority Affairs,185,21888,21974,99
+72.0,Ministry of New and Renewable Energy,636,12260,12760,136
+73.0,Ministry of Panchayati Raj,30,55742,53510,2262
+74.0,Ministry of Parliamentary Affairs,91,18490,18571,10
+75.0,Ministry of Petroleum and Natural Gas,1415,190272,190197,1490
+76.0,Ministry of Power,432,45953,46296,89
+77.0,Ministry of Railways (Railway Board),9760,589480,595011,4229
+78.0,Ministry of Road Transport and Highways,4523,210970,214269,1224
+79.0,Ministry of Shipping,179,18052,18189,42
+80.0,Ministry of Skill Development and Entrepreneurship,134,43933,43685,382
+81.0,Ministry of Statistics and Programme Implementation,65,5022,5067,20
+82.0,Ministry of Steel,157,14835,14950,42
+83.0,Ministry of Textiles,119,13286,13376,29
+84.0,Ministry of Tourism,666,20628,21168,126
+85.0,Ministry of Tribal Affairs,89,16524,16566,47
+86.0,"Ministry of Water Resources, River Development & Ganga Rejuvenation",805,35092,35716,181
+87.0,Ministry of Women and Child Development,254,65359,65254,359
+88.0,NITI Aayog,1134,27470,28571,33
+89.0,O/o the Comptroller & Auditor General of India,75,64268,64254,89
+90.0,Staff Selection Commission,78,140024,139894,208
+91.0,Unique Identification Authority of India,268,170332,168502,2098

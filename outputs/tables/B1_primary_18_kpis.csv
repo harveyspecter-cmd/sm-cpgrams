@@ -1,0 +1,19 @@
+KPI_ID,name,domain,num,den,value,unit,target,scope
+KPI-01,"Substantive resolution rate, direct cohort",Service effectiveness,2.0,24,8.3,%,>= 85%,n = 24
+KPI-02,"Substantive resolution rate, individual cases",Service effectiveness,2.0,12,16.7,%,>= 85%,n = 12
+KPI-03,"Nominal 21 day compliance, individual",Queue speed,5.0,11,45.5,%,>= 90%,n = 11
+KPI-04,"Substantive 21 day compliance, individual",Value based SLA,2.0,11,18.2,%,>= 85%,n = 11
+KPI-05,"Nominal 21 day compliance, direct cohort",Queue speed,5.0,23,21.7,%,>= 90%,n = 23
+KPI-06,"Substantive 21 day compliance, direct cohort",Value based SLA,2.0,23,8.7,%,>= 85%,n = 23
+KPI-07,Hollow closure share among closures within 21 days,Watermelon index,3.0,5,60.0,%,<= 5%,n = 5
+KPI-08,"21 day breach rate, direct cohort",SLA non compliance,18.0,23,78.3,%,<= 10%,n = 23
+KPI-09,"Overall hollow closure rate, direct cohort",False closure,20.0,24,83.3,%,<= 5%,n = 24
+KPI-10,"Mean time to disposal, strictly closed",Portal cycle time,119.0,7,17.0,days,<= 21,n = 7
+KPI-11,"Mean portal duration, all dated direct",Portal cycle time,469.0,11,42.6,days,<= 21,n = 11
+KPI-12,Mean end to end citizen journey,Journey cycle time,1353.0,11,123.0,days,<= 30,n = 11
+KPI-13,"Mean reassignments, exact known",Hand off friction,9.0,9,1.0,hops,<= 1,n = 9
+KPI-14,Resolution rate with zero reassignment,Single owner effectiveness,2.0,4,50.0,%,>= 85%,n = 4
+KPI-15,Resolution rate with one or more reassignment,Escalation collapse,0.0,18,0.0,%,>= 75%,n = 18
+KPI-16,External channel use,Failure demand,24.0,24,100.0,%,<= 10%,n = 24
+KPI-17,Mean outcome fairness score,Perceived justice,3.0,3,1.0,of 5,>= 4,n = 3
+KPI-18,Digital confidence erosion,Trust,2.0,3,66.7,%,<= 10%,n = 3
